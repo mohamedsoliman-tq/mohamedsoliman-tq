@@ -40,7 +40,7 @@ Red Team Operator
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mohamed-soliman-00202324b/)](https://www.linkedin.com/in/mohamed-soliman-00202324b/)
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue2?style=for-the-badge&logo=Telegram&logoColor=white&link=https://t.me/mohamednassersoliman)](https://t.me/mohamednassersoliman)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=Telegram&logoColor=white&link=https://t.me/mohamednassersoliman)](https://t.me/mohamednassersoliman)
 
 ## Programming Languages
 
