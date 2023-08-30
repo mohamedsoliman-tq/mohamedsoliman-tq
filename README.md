@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="right" src="https://c.tenor.com/bV0Y9.gif">
 
 <h3 align="center">
   Welcome to Mohamed Soliman's profile!
