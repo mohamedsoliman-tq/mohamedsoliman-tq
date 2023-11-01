@@ -22,7 +22,7 @@ I am Mohamed Soliman, a passionate and dedicated computer science student with a
 ![GitHub Stats](YourGitHubStatsBadgeURL)
 
 ## TryHackMe Profile
-[![TryHackMe Profile]([YourTryHackMeBadgeURL](https://tryhackme.com/badge/1322680))](https://tryhackme.com/p/hayloftinhuman46)
+[![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/hayloftinhuman46.png)](https://tryhackme.com/p/hayloftinhuman46)
 
 ## 📫 Let's Connect!
 I'm eager to connect with fellow students, cybersecurity enthusiasts, and professionals in the field. Feel free to reach out for discussions, mentorship, or any exciting opportunities for collaboration.
