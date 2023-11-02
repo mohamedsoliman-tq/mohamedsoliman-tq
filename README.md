@@ -19,11 +19,14 @@ I am Mohamed Soliman, a passionate and dedicated computer science student with a
 - Collaborate with like-minded professionals and contribute to securing digital systems.
 
   ## GitHub Stats
-![GitHub Stats](YourGitHubStatsBadgeURL)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamednasser-0&show_icons=true&theme=radical)
 
 ## TryHackMe Profile
 [![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/hayloftinhuman46.png)](https://tryhackme.com/p/hayloftinhuman46)
 
 ## 📫 Let's Connect!
 I'm eager to connect with fellow students, cybersecurity enthusiasts, and professionals in the field. Feel free to reach out for discussions, mentorship, or any exciting opportunities for collaboration.
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_soliman-blue)](https://www.linkedin.com/in/mohamed-soliman-🇵🇸-00202324b)
 
