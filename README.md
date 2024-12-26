@@ -22,7 +22,7 @@ I am Mohamed Soliman, a passionate and dedicated computer science student with a
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamednasser-0&show_icons=true&theme=radical)
 
 ## TryHackMe Profile
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1322680" style='border:none;'></iframe>
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/1322680.png)](https://tryhackme.com/p/1322680)
 
 ## 📫 Let's Connect!
 I'm eager to connect with fellow students, cybersecurity enthusiasts, and professionals in the field. Feel free to reach out for discussions, mentorship, or any exciting opportunities for collaboration.
