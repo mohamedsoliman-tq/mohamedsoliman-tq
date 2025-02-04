@@ -19,7 +19,7 @@ I am Mohamed Soliman, a passionate and dedicated computer science student with a
 - Collaborate with like-minded professionals and contribute to securing digital systems.
 
   ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamednasser-0&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedsoliman-tq&show_icons=true&theme=radical)
 
 ## TryHackMe Profile
 <a href="https://tryhackme.com/p/T4QI">
